@@ -1,3 +1,9 @@
 Emerson
+<<<<<<< HEAD
 Maria
 Eduarda
+=======
+Junior
+Estela
+Gabriel
+>>>>>>> page_home
